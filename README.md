@@ -1,4 +1,4 @@
-#йоу <img src="https://i.gifer.com/embedded/download/PYh.gif" width="25px">
+#йоу 
 
 <!--
 **Evandriya/Evandriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
